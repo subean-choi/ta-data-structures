@@ -106,6 +106,7 @@ void bubble_sort(int list[], int n){
 <td>O(n²)</td>
 </tr>
 </table>
+
 ## 과제 Hint 
 ### Function :
 1. **Sort 함수**
